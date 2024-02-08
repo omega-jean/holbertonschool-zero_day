@@ -1,8 +1,6 @@
 #!/bin/bash
-Best
-#!/bin/bash
 <<<<<<< HEAD
-This School is so cool!
+This School is so cool
 =======
-Best school
->>>>>>> origin/update_script
+Best School
+>>>>>>> update_script
