@@ -1,4 +1,8 @@
 #!/bin/bash
 Best
 #!/bin/bash
+<<<<<<< HEAD
 This School is so cool!
+=======
+Best school
+>>>>>>> origin/update_script
